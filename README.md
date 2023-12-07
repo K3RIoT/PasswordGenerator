@@ -1,5 +1,3 @@
-# PasswordGenerator
-Simple python program with Tkinter GUI for generate random password with given length
 # Random Password Generator using Tkinter  
 This is a simple Python program built with Tkinter that generates a random password based on the user-input length.  
 ## Getting Started  
