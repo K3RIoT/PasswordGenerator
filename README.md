@@ -16,14 +16,13 @@ cd random-password-generator
 ### Usage  Run the Python script to start the application:  
 ```bash 
 python main.py
+```
 
-1-Enter the desired length of the password in the input field.
-2-Click on the "Generate Password" button.
+1-Set the desired length of the password in spin box field.
+2-Click on the "Generate" button.
 3-The generated password will be displayed in the text field.
-4-Use the password as needed.
-
-### Screenshots
-Screenshot
+4-You can copy password with "Copy" button or just select it with mouse and "Ctrl+C".
+5-Use the password as needed.
 
 ### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
