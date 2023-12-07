@@ -11,7 +11,7 @@ git clone https://github.com/K3RIoT/PasswordGenerator.git
 ```  
 2. Navigate to the directory:      
 ```bash     
-cd random-password-generator     
+cd PasswordGenerator    
 ```  
 ### Usage  Run the Python script to start the application:  
 ```bash 
